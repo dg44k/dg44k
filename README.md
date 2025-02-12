@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil Goncharov</h1>
 <h3 align="center">A passionate React developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **React**
 
